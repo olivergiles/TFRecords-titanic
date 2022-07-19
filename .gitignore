@@ -1,1 +1,3 @@
 titanic.csv
+*.tfrecord
+.ipynb_checkpoints
