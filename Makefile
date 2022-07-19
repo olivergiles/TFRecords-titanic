@@ -1,4 +1,4 @@
 .PHONEY: get_data
 get_data:
-		curl -LJO https://github.com/datasciencedojo/datasets/blob/master/titanic.csv
+		curl -LJO https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
 
